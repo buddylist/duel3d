@@ -1,0 +1,497 @@
+[
+ {
+  "id": "Barbarian",
+  "base": "KayKit Barbarian",
+  "file": "models/kaykit/Barbarian.glb",
+  "name": "KayKit Barbarian",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0",
+  "src": "https://kaylousberg.itch.io/kaykit-adventurers"
+ },
+ {
+  "id": "Knight",
+  "base": "KayKit Knight",
+  "file": "models/kaykit/Knight.glb",
+  "name": "KayKit Knight",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0",
+  "src": "https://kaylousberg.itch.io/kaykit-adventurers"
+ },
+ {
+  "id": "Mage",
+  "base": "KayKit Mage",
+  "file": "models/kaykit/Mage.glb",
+  "name": "KayKit Mage",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0",
+  "src": "https://kaylousberg.itch.io/kaykit-adventurers"
+ },
+ {
+  "id": "Rogue",
+  "base": "KayKit Rogue",
+  "file": "models/kaykit/Rogue.glb",
+  "name": "KayKit Rogue",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0",
+  "src": "https://kaylousberg.itch.io/kaykit-adventurers"
+ },
+ {
+  "id": "Rogue_Hooded",
+  "base": "KayKit Rogue Hooded",
+  "file": "models/kaykit/Rogue_Hooded.glb",
+  "name": "KayKit Rogue Hooded",
+  "author": "Kay Lousberg (KayKit)",
+  "license": "CC0",
+  "src": "https://kaylousberg.itch.io/kaykit-adventurers"
+ },
+ {
+  "id": "5EGWBMpuXq",
+  "base": "Adventurer",
+  "file": "models/polypizza/raw/5EGWBMpuXq.glb",
+  "name": "Adventurer",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/5EGWBMpuXq"
+ },
+ {
+  "id": "ZwF0K7WBmu",
+  "base": "Adventurer",
+  "file": "models/polypizza/raw/ZwF0K7WBmu.glb",
+  "name": "Adventurer 2",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/ZwF0K7WBmu"
+ },
+ {
+  "id": "c3Ibh9I3udk",
+  "base": "Animated Human",
+  "file": "models/polypizza/raw/c3Ibh9I3udk.glb",
+  "name": "Animated Human",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/c3Ibh9I3udk"
+ },
+ {
+  "id": "kKtL4zvS3n",
+  "base": "Animated Platformer Character",
+  "file": "models/polypizza/raw/kKtL4zvS3n.glb",
+  "name": "Animated Platformer Character",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/kKtL4zvS3n"
+ },
+ {
+  "id": "QCm7qe9uNJ",
+  "base": "Animated Robot",
+  "file": "models/polypizza/raw/QCm7qe9uNJ.glb",
+  "name": "Animated Robot",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/QCm7qe9uNJ"
+ },
+ {
+  "id": "9kF7eTDbhO",
+  "base": "Animated Woman",
+  "file": "models/polypizza/raw/9kF7eTDbhO.glb",
+  "name": "Animated Woman",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/9kF7eTDbhO"
+ },
+ {
+  "id": "nIItLV9nxS",
+  "base": "Animated Woman",
+  "file": "models/polypizza/raw/nIItLV9nxS.glb",
+  "name": "Animated Woman 2",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/nIItLV9nxS"
+ },
+ {
+  "id": "qJ2gsTUBHL",
+  "base": "Animated Woman",
+  "file": "models/polypizza/raw/qJ2gsTUBHL.glb",
+  "name": "Animated Woman 3",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/qJ2gsTUBHL"
+ },
+ {
+  "id": "tZYaOQ4l94",
+  "base": "Anne",
+  "file": "models/polypizza/raw/tZYaOQ4l94.glb",
+  "name": "Anne",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/tZYaOQ4l94"
+ },
+ {
+  "id": "OgeSH89Nmx",
+  "base": "Astronaut",
+  "file": "models/polypizza/raw/OgeSH89Nmx.glb",
+  "name": "Astronaut",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/OgeSH89Nmx"
+ },
+ {
+  "id": "S7jYW6Amye",
+  "base": "Blue Demon",
+  "file": "models/polypizza/raw/S7jYW6Amye.glb",
+  "name": "Blue Demon",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/S7jYW6Amye"
+ },
+ {
+  "id": "DgOCW9ZCRJ",
+  "base": "Character Animated",
+  "file": "models/polypizza/raw/DgOCW9ZCRJ.glb",
+  "name": "Character Animated",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/DgOCW9ZCRJ"
+ },
+ {
+  "id": "z3TSQYx1Kn",
+  "base": "Character Hazmat",
+  "file": "models/polypizza/raw/z3TSQYx1Kn.glb",
+  "name": "Character Hazmat",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/z3TSQYx1Kn"
+ },
+ {
+  "id": "PpLF4rt4ah",
+  "base": "Character Soldier",
+  "file": "models/polypizza/raw/PpLF4rt4ah.glb",
+  "name": "Character Soldier",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/PpLF4rt4ah"
+ },
+ {
+  "id": "66kQ4dBBC7",
+  "base": "Characters Matt",
+  "file": "models/polypizza/raw/66kQ4dBBC7.glb",
+  "name": "Characters Matt",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/66kQ4dBBC7"
+ },
+ {
+  "id": "eJFT9MxzOM",
+  "base": "Characters Shaun",
+  "file": "models/polypizza/raw/eJFT9MxzOM.glb",
+  "name": "Characters Shaun",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/eJFT9MxzOM"
+ },
+ {
+  "id": "UgBmRVnQ9h",
+  "base": "Enemy Large",
+  "file": "models/polypizza/raw/UgBmRVnQ9h.glb",
+  "name": "Enemy Large",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/UgBmRVnQ9h"
+ },
+ {
+  "id": "y9KWOVG21R",
+  "base": "Hooded Adventurer",
+  "file": "models/polypizza/raw/y9KWOVG21R.glb",
+  "name": "Hooded Adventurer",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/y9KWOVG21R"
+ },
+ {
+  "id": "I1gTjmuK2m",
+  "base": "King",
+  "file": "models/polypizza/raw/I1gTjmuK2m.glb",
+  "name": "King",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/I1gTjmuK2m"
+ },
+ {
+  "id": "2urczqZ9Xf",
+  "base": "Mako",
+  "file": "models/polypizza/raw/2urczqZ9Xf.glb",
+  "name": "Mako",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/2urczqZ9Xf"
+ },
+ {
+  "id": "HMnuH5geEG",
+  "base": "Man",
+  "file": "models/polypizza/raw/HMnuH5geEG.glb",
+  "name": "Man",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/HMnuH5geEG"
+ },
+ {
+  "id": "xGYmeDpfTu",
+  "base": "Ninja",
+  "file": "models/polypizza/raw/xGYmeDpfTu.glb",
+  "name": "Ninja",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/xGYmeDpfTu"
+ },
+ {
+  "id": "sN18LyyHAU",
+  "base": "Pirate Captain",
+  "file": "models/polypizza/raw/sN18LyyHAU.glb",
+  "name": "Pirate Captain",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/sN18LyyHAU"
+ },
+ {
+  "id": "djXoqejw6w",
+  "base": "Punk",
+  "file": "models/polypizza/raw/djXoqejw6w.glb",
+  "name": "Punk",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/djXoqejw6w"
+ },
+ {
+  "id": "yiQDOLP4Ry",
+  "base": "Rigged Character",
+  "file": "models/polypizza/raw/yiQDOLP4Ry.glb",
+  "name": "Rigged Character",
+  "author": "Rafael",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/yiQDOLP4Ry"
+ },
+ {
+  "id": "1XZD9GK6Kj",
+  "base": "Skeleton",
+  "file": "models/polypizza/raw/1XZD9GK6Kj.glb",
+  "name": "Skeleton",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/1XZD9GK6Kj"
+ },
+ {
+  "id": "yq5ATpujSt",
+  "base": "Skeleton",
+  "file": "models/polypizza/raw/yq5ATpujSt.glb",
+  "name": "Skeleton 2",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/yq5ATpujSt"
+ },
+ {
+  "id": "Btfn3G5Xv4",
+  "base": "SWAT",
+  "file": "models/polypizza/raw/Btfn3G5Xv4.glb",
+  "name": "SWAT",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/Btfn3G5Xv4"
+ },
+ {
+  "id": "AQsd9ngvKU",
+  "base": "Woman",
+  "file": "models/polypizza/raw/AQsd9ngvKU.glb",
+  "name": "Woman",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/AQsd9ngvKU"
+ },
+ {
+  "id": "jpKRgGDxhk",
+  "base": "Woman Casual",
+  "file": "models/polypizza/raw/jpKRgGDxhk.glb",
+  "name": "Woman Casual",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/jpKRgGDxhk"
+ },
+ {
+  "id": "zMyPlQXBzq",
+  "base": "Woman in Dress",
+  "file": "models/polypizza/raw/zMyPlQXBzq.glb",
+  "name": "Woman in Dress",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/zMyPlQXBzq"
+ },
+ {
+  "id": "ceRHrn8HHE",
+  "base": "Yeti",
+  "file": "models/polypizza/raw/ceRHrn8HHE.glb",
+  "name": "Yeti",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/ceRHrn8HHE"
+ },
+ {
+  "id": "VlXjG0N8Eg",
+  "base": "Zombie",
+  "file": "models/polypizza/raw/VlXjG0N8Eg.glb",
+  "name": "Zombie 2",
+  "author": "Quaternius",
+  "license": "CC0",
+  "src": "https://poly.pizza/m/VlXjG0N8Eg"
+ },
+ {
+  "id": "cwYvO5UauX",
+  "base": "Animated Base Character",
+  "file": "models/polypizza/raw/cwYvO5UauX.glb",
+  "name": "Animated Base Character",
+  "author": "Quaternius",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/cwYvO5UauX"
+ },
+ {
+  "id": "AZzoJo1FBm",
+  "base": "Animated Character Base",
+  "file": "models/polypizza/raw/AZzoJo1FBm.glb",
+  "name": "Animated Character Base",
+  "author": "J-Toastie",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/AZzoJo1FBm"
+ },
+ {
+  "id": "kttbFvCl2C",
+  "base": "Animated Wizard",
+  "file": "models/polypizza/raw/kttbFvCl2C.glb",
+  "name": "Animated Wizard",
+  "author": "Quaternius",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/kttbFvCl2C"
+ },
+ {
+  "id": "jkrEvQZb8J",
+  "base": "Animated Zombie",
+  "file": "models/polypizza/raw/jkrEvQZb8J.glb",
+  "name": "Animated Zombie",
+  "author": "Quaternius",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/jkrEvQZb8J"
+ },
+ {
+  "id": "6kFNcL9OnO",
+  "base": "Hyper Casual Character",
+  "file": "models/polypizza/raw/6kFNcL9OnO.glb",
+  "name": "Hyper Casual Character",
+  "author": "J-Toastie",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/6kFNcL9OnO"
+ },
+ {
+  "id": "1TnT5Xc6vq",
+  "base": "Knight",
+  "file": "models/polypizza/raw/1TnT5Xc6vq.glb",
+  "name": "Knight",
+  "author": "Vaporworks",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/1TnT5Xc6vq"
+ },
+ {
+  "id": "isC73B8SKq",
+  "base": "Knight",
+  "file": "models/polypizza/raw/isC73B8SKq.glb",
+  "name": "Knight 2",
+  "author": "Dawid2K",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/isC73B8SKq"
+ },
+ {
+  "id": "3AiqeNLKkP",
+  "base": "Military man",
+  "file": "models/polypizza/raw/3AiqeNLKkP.glb",
+  "name": "Military man",
+  "author": "madtrollstudio",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/3AiqeNLKkP"
+ },
+ {
+  "id": "BwjA6Thdzd",
+  "base": "Rigged robot",
+  "file": "models/polypizza/raw/BwjA6Thdzd.glb",
+  "name": "Rigged robot",
+  "author": "joney_lol",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/BwjA6Thdzd"
+ },
+ {
+  "id": "4pUXv5V8kq",
+  "base": "Sci Fi Character",
+  "file": "models/polypizza/raw/4pUXv5V8kq.glb",
+  "name": "Sci Fi Character",
+  "author": "Quaternius",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/4pUXv5V8kq"
+ },
+ {
+  "id": "9wbCF0iWpu",
+  "base": "Soldier",
+  "file": "models/polypizza/raw/9wbCF0iWpu.glb",
+  "name": "Soldier",
+  "author": "J-Toastie",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/9wbCF0iWpu"
+ },
+ {
+  "id": "XT8jgwSesV",
+  "base": "Soldier",
+  "file": "models/polypizza/raw/XT8jgwSesV.glb",
+  "name": "Soldier 2",
+  "author": "KolosStudios",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/XT8jgwSesV"
+ },
+ {
+  "id": "oAArCNHjFB",
+  "base": "Soldier",
+  "file": "models/polypizza/raw/oAArCNHjFB.glb",
+  "name": "Soldier 3",
+  "author": "Quaternius",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/oAArCNHjFB"
+ },
+ {
+  "id": "tVqkTeQhCO",
+  "base": "Stylized Character",
+  "file": "models/polypizza/raw/tVqkTeQhCO.glb",
+  "name": "Stylized Character",
+  "author": "Zsky",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/tVqkTeQhCO"
+ },
+ {
+  "id": "QBEOV9ZUT8",
+  "base": "Witch",
+  "file": "models/polypizza/raw/QBEOV9ZUT8.glb",
+  "name": "Witch",
+  "author": "Quaternius",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/QBEOV9ZUT8"
+ },
+ {
+  "id": "22K0aSZkHV",
+  "base": "Zombie",
+  "file": "models/polypizza/raw/22K0aSZkHV.glb",
+  "name": "Zombie",
+  "author": "Quaternius",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/22K0aSZkHV"
+ },
+ {
+  "id": "xqEzosAVYX",
+  "base": "Zombie",
+  "file": "models/polypizza/raw/xqEzosAVYX.glb",
+  "name": "Zombie 3",
+  "author": "bachosoftdesign",
+  "license": "CC-BY",
+  "src": "https://poly.pizza/m/xqEzosAVYX"
+ }
+]
